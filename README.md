@@ -12,9 +12,9 @@ Ce projet est un site web moderne et dynamique construit pour YUCCAINFO, une sta
 - **Interface Accessible** : Construite avec des composants Shadcn/UI (Bouton, Carte, Accordéon, etc.) pour une interface moderne et conviviale.
 - **SEO & Performance** : Optimisé avec Next.js pour des temps de chargement rapides et une meilleure visibilité sur les moteurs de recherche.
 
-## 🌐 Démo 
+## 🌐 Démo vidéo
 
-Lancez le vidéo!
+Visitez le site en ligne ici 👉 https://drive.google.com/file/d/1Q7ui1AnQZzo-UmUaWCDv-dYJpSPNExM8/view?usp=sharing
 
 ## 🛠️ Pile Technologique
 
