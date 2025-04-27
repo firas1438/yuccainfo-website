@@ -1,40 +1,45 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
+# 🌟 Site Web YUCCAINFO (Probleme: Création d'une site web de YUCCAINFO)
 
-## Getting Started
+Ce projet est un site web moderne et dynamique construit pour YUCCAINFO, une startup tunisienne spécialisée dans la transformation digitale, l'ingénierie logicielle, l'IA, l'IoT, la cybersécurité et l'optimisation SEO/AEO. Le site met en avant leurs services, clients et sponsors, offrant une présence numérique professionnelle et engageante.
 
-First, run the development server:
+## 🚀 Fonctionnalités Clés
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **Section Héros 3D Interactive** : Présente un modèle 3D utilisant Three.js et @react-three/fiber pour souligner l'approche innovante de YUCCAINFO.
+- **Design Réactif** : Conçu avec Tailwind CSS pour une expérience fluide sur mobile, tablette et ordinateur.
+- **Animations Fluides** : Utilise Framer Motion pour des transitions et éléments interactifs fluides.
+- **Navigation Dynamique** : Implémente un défilement fluide avec mise en surbrillance des sections actives via IntersectionObserver.
+- **Présentation des Services et Sponsors** : Affiche des cartes de services animées et un défilement de sponsors pour mettre en avant l'expertise et les partenariats de YUCCAINFO.
+- **Interface Accessible** : Construite avec des composants Shadcn/UI (Bouton, Carte, Accordéon, etc.) pour une interface moderne et conviviale.
+- **SEO & Performance** : Optimisé avec Next.js pour des temps de chargement rapides et une meilleure visibilité sur les moteurs de recherche.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🌐 Démo en Ligne
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+Visitez le site en ligne ici 👉 [Site Web YUCCAINFO](#) *(Remplacez par l'URL réelle si disponible)*
 
-[API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+## 🛠️ Pile Technologique
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) instead of React pages.
+- **Framework** : Next.js (React, TypeScript)
+- **Style** : Tailwind CSS
+- **Animations** : Framer Motion
+- **Graphiques 3D** : Three.js, @react-three/fiber, @react-three/drei
+- **Composants UI** : Shadcn/UI (Bouton, Carte, Accordéon, Séparateur, etc.)
+- **Icônes** : Lucide React
+- **Autres Bibliothèques** : react-fast-marquee pour le carrousel de sponsors, composants UI personnalisés
 
-This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 📋 Prérequis
 
-## Learn More
+- Node.js (v18 ou supérieur)
+- npm ou Yarn
+- Git
 
-To learn more about Next.js, take a look at the following resources:
+## 🏁 Démarrage
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn-pages-router) - an interactive Next.js tutorial.
+Suivez ces étapes pour configurer et exécuter le projet localement :
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/pages/building-your-application/deploying) for more details.
+**Cloner le dépôt** :
+   ```bash
+   git clone https://github.com/firas1438/yuccainfo-website.git
+   cd yuccainfo
+   npm install
+   npm run dev
+   ```
